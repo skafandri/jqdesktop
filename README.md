@@ -1,0 +1,4 @@
+jqdesktop
+=========
+
+jqDesktop jQuery plugin
