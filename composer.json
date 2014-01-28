@@ -8,10 +8,7 @@
         {
             "name": "ilyes kooli",
             "email": "kooli.ilyes@gmail.com",
-            "homepage": "http://www.ilyeskooli.com",
-            "role": "Developer"
+            "homepage": "http://www.ilyeskooli.com"
         }
-    ],
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    ]
 }
