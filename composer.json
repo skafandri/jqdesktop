@@ -1,0 +1,17 @@
+{
+    "name": "jqDesktop",
+    "description": "jqDesktop JQuery plugin",
+    "version": "0.0.1",
+    "homepage": "https://github.com/skafandri/jqdesktop",
+    "license": "GPL-V2",
+    "authors": [
+        {
+            "name": "ilyes kooli",
+            "email": "kooli.ilyes@gmail.com",
+            "homepage": "http://www.ilyeskooli.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
