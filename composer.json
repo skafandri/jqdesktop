@@ -11,7 +11,5 @@
             "homepage": "http://www.ilyeskooli.com",
             "role": "Developer"
         }
-    ],
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    ]
 }
