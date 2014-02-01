@@ -15,7 +15,7 @@
         "robloach/component-installer": "*"
     },
     "extra": {
-        "jqdesktop": {
+        "component": {
             "scripts": [
                 "jquery.jqDesktop.js"
             ],
