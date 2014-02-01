@@ -10,5 +10,18 @@
             "email": "kooli.ilyes@gmail.com",
             "homepage": "http://www.ilyeskooli.com"
         }
-    ]
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "jqdesktop": {
+            "scripts": [
+                "jquery.jqDesktop.js"
+            ],
+            "files": [
+                "min.jquery.jqDesktop.js"
+            ]
+        }
+    }
 }
