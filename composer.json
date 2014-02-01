@@ -23,5 +23,6 @@
                 "min.jquery.jqDesktop.js"
             ]
         }
-    }
+    },
+    "component-dir": "jqdesktop"
 }
