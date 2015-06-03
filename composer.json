@@ -1,7 +1,7 @@
 {
     "name": "skafandri/jqdesktop",
     "description": "jqDesktop JQuery plugin",
-    "version": "0.0.1",
+
     "homepage": "https://github.com/skafandri/jqdesktop",
     "license": "GPL-V2",
     "authors": [
@@ -12,17 +12,6 @@
         }
     ],
     "require": {
-        "robloach/component-installer": "*"
-    },
-    "extra": {
-        "component": {
-            "scripts": [
-                "jquery.jqDesktop.js"
-            ],
-            "files": [
-                "min.jquery.jqDesktop.js"
-            ]
-        }
-    },
-    "component-dir": "jqdesktop"
+        "composer/installers": "~1.0"
+    }
 }
